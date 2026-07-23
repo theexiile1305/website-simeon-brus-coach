@@ -1,0 +1,108 @@
+{
+  "Nav": {
+    "home": "Home",
+    "therapy": "Therapy",
+    "mma": "MMA",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "skipToContent": "Skip to content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "LanguageSwitcher": {
+    "label": "Language",
+    "de": "German",
+    "en": "English"
+  },
+  "Footer": {
+    "tagline": "Holistic therapy, performance coaching, and MMA training in Traubing, Bavaria.",
+    "navHeading": "Navigation",
+    "legalHeading": "Legal",
+    "contactHeading": "Contact",
+    "impressum": "Legal Notice",
+    "datenschutz": "Privacy Policy",
+    "rights": "All rights reserved.",
+    "builtBy": "Built with ❤️ by ",
+    "issuesBy": "Please report any issues at"
+  },
+  "Common": {
+    "ctaContact": "Get in touch",
+    "ctaLearnMore": "Learn more",
+    "ctaBookIntro": "Book an intro session",
+    "backHome": "Back to homepage"
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "body": "The page you're looking for doesn't exist or has moved.",
+    "cta": "Back to homepage"
+  },
+  "ContactForm": {
+    "nameLabel": "Name",
+    "namePlaceholder": "Your full name",
+    "emailLabel": "Email address",
+    "emailPlaceholder": "your.email@example.com",
+    "phoneLabel": "Phone (optional)",
+    "phonePlaceholder": "+49 176 00000000",
+    "topicLabel": "What's this about?",
+    "topicTherapie": "Therapy",
+    "topicMma": "MMA Training",
+    "topicSonstiges": "Something else",
+    "messageLabel": "Your message",
+    "messagePlaceholder": "Tell us briefly how we can help …",
+    "submit": "Send message",
+    "submitting": "Sending …",
+    "successTitle": "Thank you!",
+    "successBody": "Your message has been received. We typically respond within two business days.",
+    "errorTitle": "Something went wrong",
+    "errorBody": "We couldn't send your message. Please try again or email us directly.",
+    "errors": {
+      "nameMin": "Please enter at least 2 characters.",
+      "emailInvalid": "Please enter a valid email address.",
+      "messageMin": "Your message should be at least 10 characters.",
+      "messageMax": "Your message can be at most 2000 characters.",
+      "required": "This field is required."
+    }
+  },
+  "HomeMeta": {
+    "title": "Holistic Therapy & Coaching in Bavaria | Simeon Brus Coach",
+    "description": "Physiotherapy, sports physiotherapy, manual therapy, nutrition, and coaching near Munich, Germany. Simeon Brus helps you build lasting health and performance.",
+    "ogTitle": "Simeon Brus - Holistic Therapy & Coaching in Bavaria",
+    "ogDescription": "Personalized programs combining physiotherapy, nutrition, and coaching — for lasting health and personal growth."
+  },
+  "TherapyMeta": {
+    "title": "Sports Physiotherapy Bavaria | Simeon Brus Coach",
+    "description": "Holistic physiotherapy and movement coaching near Munich, Germany. Personalized treatment plans for athletes and everyday life — with Simeon Brus.",
+    "ogTitle": "Holistic Therapy & Performance Coaching",
+    "ogDescription": "Physiotherapy, manual therapy, and movement coaching, tailored to your goals."
+  },
+  "MmaMeta": {
+    "title": "MMA Training & Modern Self Defence Bavaria | Simeon Brus Coach",
+    "description": "Individually tailored MMA training and modern self-defense in Bavaria — for beginners, experienced fighters, and anyone who wants to feel safer.",
+    "ogTitle": "MMA Training & Modern Self Defence",
+    "ogDescription": "Personalized MMA and self-defense training in Bavaria."
+  },
+  "FaqMeta": {
+    "title": "Frequently Asked Questions | Simeon Brus Coach",
+    "description": "Answers to common questions about sessions, pricing, insurance reimbursement, and scheduling with Simeon Brus near Munich, Bavaria.",
+    "ogTitle": "Frequently Asked Questions",
+    "ogDescription": "Everything worth knowing about therapy, coaching, and MMA training."
+  },
+  "ContactMeta": {
+    "title": "Contact | Simeon Brus - Therapy & MMA Coaching in Bavaria",
+    "description": "Book a session for therapy, coaching, or MMA training near Munich, Germany. Send us a message and we'll get back to you as soon as possible.",
+    "ogTitle": "Get in touch",
+    "ogDescription": "Book a session for therapy, coaching, or MMA training in Bavaria."
+  },
+  "ImpressumMeta": {
+    "title": "Legal Notice | Simeon Brus Coach",
+    "description": "Legal notice (Impressum) required under German law (§ 5 TMG) for Simeon Brus Coach, Traubing, Germany.",
+    "ogTitle": "Legal Notice",
+    "ogDescription": "Provider identification under German law (§ 5 TMG)."
+  },
+  "DatenschutzMeta": {
+    "title": "Privacy Policy | Simeon Brus Coach",
+    "description": "Privacy policy of Simeon Brus Coach under the GDPR.",
+    "ogTitle": "Privacy Policy",
+    "ogDescription": "Privacy policy of Simeon Brus Coach under the GDPR."
+  }
+}
