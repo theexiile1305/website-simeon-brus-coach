@@ -8,7 +8,7 @@ export const faq: FaqContent = {
     {
       question: "Will my health insurance cover the cost?",
       answer:
-        "For treatments prescribed by a doctor, I typically bill German statutory and private health insurers directly. Coaching and MMA sessions are private-pay services not covered by health insurance. Reach out if you have questions about your specific situation.",
+        "All services are billed on a self-pay basis. If you have any questions, please feel free to contact me directly using the contact form.",
     },
     {
       question: "What happens in the first session?",

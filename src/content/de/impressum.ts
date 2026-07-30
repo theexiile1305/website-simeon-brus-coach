@@ -28,7 +28,7 @@ export const impressum: LegalContent = {
     {
       heading: "Berufsbezeichnung und berufsrechtliche Regelungen",
       body: [
-        "Berufsbezeichnung: Staatlich geprüfter Physiotherapeut (Deutschland), mit Zusatzqualifikationen u. a. in Sportphysiotherapie (DOSB GK), Manueller Therapie (osteopathisches Konzept), Chiropraktik, Dry Needling und als sektoraler Heilpraktiker für Physiotherapie.",
+        "Berufsbezeichnung: Physiotherapeut mit Zusatzqualifikationen u. a. in Sportphysiotherapie (DOSB GK), Manueller Therapie (osteopathisches Konzept), Chiropraktik, Dry Needling und als sektoraler Heilpraktiker für Physiotherapie.",
         "Zuständige Aufsichtsbehörde: wird in Kürze ergänzt.",
       ],
     },

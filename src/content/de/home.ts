@@ -12,8 +12,7 @@ export const home: HomeContent = {
     secondaryCta: { label: "Therapie & Coaching entdecken", href: "/therapie" },
   },
   therapyIntro: {
-    eyebrow: "Therapie & Coaching",
-    heading: "Körper, Ernährung und Kopf als Einheit",
+    heading: "Therapie & Coaching",
     body: "Ich unterstütze Menschen in Bayern dabei, Schmerzen zu verstehen, Bewegungsmuster zu verbessern und langfristig leistungsfähig zu bleiben. Mein Ansatz verbindet fundierte Physiotherapie mit Ernährungs- und Mentalcoaching - für Gesundheit, die nicht nur kurzfristig hilft, sondern trägt.",
   },
   therapyServices: [
@@ -66,13 +65,13 @@ export const home: HomeContent = {
     eyebrow: "Über Simeon Brus",
     heading: "Ihr Partner für Gesundheit und Leistungsfähigkeit",
     body: [
-      "Als staatlich geprüfter Physiotherapeut mit sportphysiotherapeutischer Zusatzausbildung begleite ich Menschen in Bayern seit über zehn Jahren dabei, Beschwerden zu verstehen, nachhaltig gesund zu werden und ihre Leistungsfähigkeit aufzubauen.",
+      "Als Physiotherapeut mit sportphysiotherapeutischer Zusatzausbildung begleite ich Menschen in Bayern seit über zehn Jahren dabei, Beschwerden zu verstehen, nachhaltig gesund zu werden und ihre Leistungsfähigkeit aufzubauen.",
       "Mein Ansatz ist bewusst ganzheitlich: Therapie, Ernährung und mentales Coaching greifen ineinander, statt getrennt betrachtet zu werden. Diese Perspektive auf Körper und Kopf als Einheit hat sich auch in meiner Arbeit im MMA-Training und in der modernen Selbstverteidigung bewährt. Seit 2020 bin ich mit meinem eigenen Therapie-Konzept selbständig.",
     ],
     highlights: [
       "10+ Jahre Erfahrung",
       "Selbständig seit 2020",
-      "Staatlich geprüfter Physiotherapeut",
+      "Physiotherapeut",
       "Ganzheitlicher Ansatz",
     ],
   },
@@ -83,7 +82,7 @@ export const home: HomeContent = {
     items: [
       {
         title: "Physiotherapie",
-        description: "Staatlich geprüfte Grundausbildung.",
+        description: "Berufsausbildung",
       },
       {
         title: "Sportphysiotherapie (DOSB GK)",
@@ -113,7 +112,7 @@ export const home: HomeContent = {
       },
       {
         title: "Masseur & medizinischer Bademeister",
-        description: "Staatlich geprüfte Ausbildung.",
+        description: "Staatlich annerkannte Ausbildung.",
       },
       {
         title: "Medical Flossing & Tapen",
@@ -159,9 +158,8 @@ export const home: HomeContent = {
     entries: [faq.entries[0], faq.entries[1], faq.entries[3], faq.entries[4]],
     cta: { label: "Alle Fragen ansehen", href: "/faq" },
   },
-  performanceTeaser: {
-    eyebrow: "MMA-Training & Selbstverteidigung",
-    heading: "Individuelles MMA-Training & Modern Self Defence",
+  performanceTeaser: {<
+    heading: "MMA-Training & Selbstverteidigung",
     body: "Als Erweiterung meines ganzheitlichen Ansatzes biete ich individuelles MMA-Training und moderne Selbstverteidigung an - von den ersten Schritten bis zum eigenen Kampf-Style, angepasst an Ihre Ziele und Voraussetzungen.",
     points: [
       "MMA-Training für Einsteiger:innen & erfahrene Kämpfer:innen",

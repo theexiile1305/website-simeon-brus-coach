@@ -8,7 +8,7 @@ export const faq: FaqContent = {
     {
       question: "Übernimmt meine Krankenkasse die Kosten?",
       answer:
-        "Bei Behandlungen auf ärztliche Verordnung rechne ich in der Regel direkt mit gesetzlichen und privaten Krankenkassen ab. Bei Coaching- und MMA-Leistungen handelt es sich um Selbstzahlerleistungen, die nicht von der Krankenkasse übernommen werden. Sprechen Sie mich bei Fragen gerne direkt an.",
+        "Alle Leistungen werden auf Selbstzahlerbasis abgerechnet. Sprechen Sie mich bei Fragen gerne direkt über das Kontaktformular an.",
     },
     {
       question: "Wie läuft der erste Termin ab?",

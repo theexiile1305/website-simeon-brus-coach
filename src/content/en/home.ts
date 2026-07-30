@@ -83,7 +83,7 @@ export const home: HomeContent = {
     items: [
       {
         title: "Physiotherapy",
-        description: "State-certified foundational qualification.",
+        description: "Vocational Training",
       },
       {
         title: "Sports Physiotherapy (DOSB Basic Certification)",
@@ -113,7 +113,7 @@ export const home: HomeContent = {
       },
       {
         title: "Masseur & Certified Medical Bath Attendant",
-        description: "State-certified qualification.",
+        description: "State-recognized qualification.",
       },
       {
         title: "Medical Flossing & Taping",

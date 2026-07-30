@@ -27,7 +27,7 @@ export const legal: LegalContent = {
     {
       heading: "Professional Title & Regulatory Body",
       body: [
-        "Professional title: State-certified physiotherapist (Germany), with additional qualifications including sports physiotherapy (DOSB basic certification), manual therapy (osteopathic concept), chiropractic, dry needling, and a sectoral alternative-practitioner (Heilpraktiker) license for physiotherapy.",
+        "Professional title: physiotherapist with additional qualifications including sports physiotherapy (DOSB basic certification), manual therapy (osteopathic concept), chiropractic, dry needling, and a sectoral alternative-practitioner (Heilpraktiker) license for physiotherapy.",
         "Competent supervisory authority: to be added shortly.",
       ],
     },
