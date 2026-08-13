@@ -64,45 +64,21 @@
     }
   },
   "HomeMeta": {
-    "title": "Holistic Therapy & Coaching in Bavaria | Simeon Brus Coach",
-    "description": "Physiotherapy, sports physiotherapy, manual therapy, nutrition, and coaching near Munich, Germany. Simeon Brus helps you build lasting health and performance.",
-    "ogTitle": "Simeon Brus - Holistic Therapy & Coaching in Bavaria",
-    "ogDescription": "Personalized programs combining physiotherapy, nutrition, and coaching — for lasting health and personal growth."
-  },
-  "TherapyMeta": {
-    "title": "Sports Physiotherapy Bavaria | Simeon Brus Coach",
-    "description": "Holistic physiotherapy and movement coaching near Munich, Germany. Personalized treatment plans for athletes and everyday life — with Simeon Brus.",
-    "ogTitle": "Holistic Therapy & Performance Coaching",
-    "ogDescription": "Physiotherapy, manual therapy, and movement coaching, tailored to your goals."
-  },
-  "MmaMeta": {
-    "title": "MMA Training & Modern Self Defence Bavaria | Simeon Brus Coach",
-    "description": "Individually tailored MMA training and modern self-defense in Bavaria — for beginners, experienced fighters, and anyone who wants to feel safer.",
-    "ogTitle": "MMA Training & Modern Self Defence",
-    "ogDescription": "Personalized MMA and self-defense training in Bavaria."
-  },
-  "FaqMeta": {
-    "title": "Frequently Asked Questions | Simeon Brus Coach",
-    "description": "Answers to common questions about sessions, pricing, insurance reimbursement, and scheduling with Simeon Brus near Munich, Bavaria.",
-    "ogTitle": "Frequently Asked Questions",
-    "ogDescription": "Everything worth knowing about therapy, coaching, and MMA training."
-  },
-  "ContactMeta": {
-    "title": "Contact | Simeon Brus - Therapy & MMA Coaching in Bavaria",
-    "description": "Book a session for therapy, coaching, or MMA training near Munich, Germany. Send us a message and we'll get back to you as soon as possible.",
-    "ogTitle": "Get in touch",
-    "ogDescription": "Book a session for therapy, coaching, or MMA training in Bavaria."
+    "title": "Physiotherapy, MMA Training & Coaching in Bavaria | Simeon Brus Coaching",
+    "description": "Physiotherapy, sports physiotherapy, manual therapy, nutrition, MMA training, and coaching in Traubing, near Munich, Germany. Simeon Brus helps you build lasting health and performance.",
+    "ogTitle": "Simeon Brus - Physiotherapy, MMA Training & Coaching in Bavaria",
+    "ogDescription": "Personalized programs combining physiotherapy, MMA training, nutrition, and coaching — for lasting health and personal growth in Traubing, Bavaria."
   },
   "ImpressumMeta": {
-    "title": "Legal Notice | Simeon Brus Coach",
-    "description": "Legal notice (Impressum) required under German law (§ 5 TMG) for Simeon Brus Coach, Traubing, Germany.",
+    "title": "Legal Notice | Simeon Brus Coaching",
+    "description": "Legal notice (Impressum) required under German law (§ 5 TMG) for Simeon Brus Coaching, Traubing, Germany.",
     "ogTitle": "Legal Notice",
     "ogDescription": "Provider identification under German law (§ 5 TMG)."
   },
   "DatenschutzMeta": {
-    "title": "Privacy Policy | Simeon Brus Coach",
-    "description": "Privacy policy of Simeon Brus Coach under the GDPR.",
+    "title": "Privacy Policy | Simeon Brus Coaching",
+    "description": "Privacy policy of Simeon Brus Coaching under the GDPR.",
     "ogTitle": "Privacy Policy",
-    "ogDescription": "Privacy policy of Simeon Brus Coach under the GDPR."
+    "ogDescription": "Privacy policy of Simeon Brus Coaching under the GDPR."
   }
 }

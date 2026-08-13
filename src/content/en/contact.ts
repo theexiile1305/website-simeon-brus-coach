@@ -7,7 +7,7 @@ export const contact: KontaktContent = {
   address: {
     heading: "Address",
     lines: [
-      "Simeon Brus Coach",
+      "Simeon Brus Coaching",
       "Bachweg 6",
       "82327 Traubing",
       "Bavaria, Germany",

@@ -5,11 +5,11 @@ export const impressum: LegalContent = {
   sections: [
     {
       heading: "Angaben gemäß § 5 TMG",
-      body: ["Simeon Brus Coach", "Bachweg 6", "82327 Traubing", "Deutschland"],
+      body: ["Simeon Brus Coaching", "Bachweg 6", "82327 Traubing", "Deutschland"],
     },
     {
       heading: "Vertretungsberechtigte Person",
-      body: ["Simeon Brus, Inhaber von Simeon Brus Coach"],
+      body: ["Simeon Brus, Inhaber von Simeon Brus Coaching"],
     },
     {
       heading: "Kontakt",
@@ -22,25 +22,18 @@ export const impressum: LegalContent = {
       heading: "Unternehmensgegenstand",
       body: [
         "Ganzheitliche Physiotherapie, manuelle Therapie, Bewegungscoaching sowie MMA- und Selbstverteidigungstraining.",
-        "Zuständige Berufsgenossenschaft: wird in Kürze ergänzt.",
       ],
     },
     {
       heading: "Berufsbezeichnung und berufsrechtliche Regelungen",
       body: [
         "Berufsbezeichnung: Physiotherapeut mit Zusatzqualifikationen u. a. in Sportphysiotherapie (DOSB GK), Manueller Therapie (osteopathisches Konzept), Chiropraktik, Dry Needling und als sektoraler Heilpraktiker für Physiotherapie.",
-        "Zuständige Aufsichtsbehörde: wird in Kürze ergänzt.",
-      ],
-    },
-    {
-      heading: "Umsatzsteuer-ID",
-      body: [
-        "Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz: wird in Kürze ergänzt.",
+        "Zuständige Aufsichtsbehörde: Gesundheitsamt Starnberg.",
       ],
     },
     {
       heading: "Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV",
-      body: ["Simeon Brus Coach, Bachweg 6, 82327 Traubing"],
+      body: ["Simeon Brus Coaching, Bachweg 6, 82327 Traubing"],
     },
     {
       heading: "EU-Streitschlichtung",

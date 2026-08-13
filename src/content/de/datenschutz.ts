@@ -34,7 +34,7 @@ export const datenschutz: LegalContent = {
     {
       heading: "Verantwortlicher",
       body: [
-        "Simeon Brus Coach",
+        "Simeon Brus Coaching",
         "Bachweg 6",
         "82327 Traubing",
         "Vertretungsberechtigte Personen: Simeon Brus",

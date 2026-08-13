@@ -7,11 +7,11 @@ export const legal: LegalContent = {
   sections: [
     {
       heading: "Information pursuant to § 5 TMG",
-      body: ["Simeon Brus Coach", "Bachweg 6", "82327 Traubing", "Germany"],
+      body: ["Simeon Brus Coaching", "Bachweg 6", "82327 Traubing", "Germany"],
     },
     {
       heading: "Authorized Representative",
-      body: ["Simeon Brus, owner of Simeon Brus Coach"],
+      body: ["Simeon Brus, owner of Simeon Brus Coaching"],
     },
     {
       heading: "Contact",
@@ -39,7 +39,7 @@ export const legal: LegalContent = {
     },
     {
       heading: "Responsible for Content pursuant to § 18 (2) MStV",
-      body: ["Simeon Brus Coach, Bachweg 6, 82327 Traubing, Germany"],
+      body: ["Simeon Brus Coaching, Bachweg 6, 82327 Traubing, Germany"],
     },
     {
       heading: "EU Online Dispute Resolution",

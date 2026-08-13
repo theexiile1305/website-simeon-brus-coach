@@ -1,14 +1,7 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { BUSINESS_FACTS } from "@/lib/constants";
-
-const NAV_ITEMS = [
-  { href: "/" as const, key: "home" as const },
-  { href: "/therapie" as const, key: "therapy" as const },
-  { href: "/mma" as const, key: "mma" as const },
-  { href: "/faq" as const, key: "faq" as const },
-  { href: "/kontakt" as const, key: "contact" as const },
-];
+import { NAV_ITEMS } from "./navItems";
 
 export default function Footer() {
   const t = useTranslations("Footer");
@@ -28,12 +21,21 @@ export default function Footer() {
           <ul className="mt-3 space-y-2 text-sm">
             {NAV_ITEMS.map((item) => (
               <li key={item.key}>
-                <Link
-                  href={item.href}
-                  className="text-muted hover:text-primary"
-                >
-                  {tNav(item.key)}
-                </Link>
+                {item.kind === "link" ? (
+                  <Link
+                    href={item.href}
+                    className="text-muted hover:text-primary"
+                  >
+                    {tNav(item.key)}
+                  </Link>
+                ) : (
+                  <a
+                    href={item.href}
+                    className="text-muted hover:text-primary"
+                  >
+                    {tNav(item.key)}
+                  </a>
+                )}
               </li>
             ))}
           </ul>
@@ -83,7 +85,7 @@ export default function Footer() {
 
       <div className="border-t border-border px-6 py-4 text-center text-xs text-muted">
         <p>
-          © {year} Simeon Brus Coach. {t("rights")}
+          © {year} Simeon Brus Coaching. {t("rights")}
         </p>
         <p className="mt-1">
           {t("builtBy")}{" "}

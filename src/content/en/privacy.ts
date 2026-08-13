@@ -34,7 +34,7 @@ export const privacy: LegalContent = {
     {
       heading: "Data Controller",
       body: [
-        "Simeon Brus Coach",
+        "Simeon Brus Coaching",
         "Bachweg 6",
         "82327 Traubing",
         "Authorized representative: Simeon Brus",

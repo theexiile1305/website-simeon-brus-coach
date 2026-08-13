@@ -45,7 +45,7 @@
     "phonePlaceholder": "+49 176 00000000",
     "topicLabel": "Worum geht es?",
     "topicTherapie": "Therapie",
-    "topicMma": "MMA-Training",
+    "topicMma": "Kampftraining",
     "topicSonstiges": "Sonstiges",
     "messageLabel": "Ihre Nachricht",
     "messagePlaceholder": "Erzählen Sie uns kurz, wie wir helfen können …",
@@ -64,38 +64,14 @@
     }
   },
   "HomeMeta": {
-    "title": "Ganzheitliche Therapie & Coaching in Bayern | Simeon Brus Coach",
-    "description": "Physiotherapie, Sportphysiotherapie, manuelle Therapie, Ernährung und Coaching in Traubing bei Starnberg. Simeon Brus begleitet Sie ganzheitlich zu nachhaltiger Gesundheit und Leistungsfähigkeit.",
-    "ogTitle": "Simeon Brus - Ganzheitliche Therapie & Coaching in Bayern",
-    "ogDescription": "Individuelle Konzepte aus Physiotherapie, Ernährung und Coaching - für nachhaltige Gesundheit und persönliche Entwicklung."
-  },
-  "TherapyMeta": {
-    "title": "Physiotherapie Traubing & Starnberg | Simeon Brus Coach",
-    "description": "Ganzheitliche Physiotherapie und Bewegungscoaching in Traubing bei Starnberg. Individuelle Behandlungspläne für Sportler:innen und Alltag - von Simeon Brus.",
-    "ogTitle": "Ganzheitliche Therapie & Coaching",
-    "ogDescription": "Physiotherapie, manuelle Therapie und Bewegungscoaching, abgestimmt auf Ihre Ziele."
-  },
-  "MmaMeta": {
-    "title": "MMA-Training & Modern Self Defence Bayern | Simeon Brus Coach",
-    "description": "Individuelles MMA-Training und moderne Selbstverteidigung in Bayern - für Einsteiger:innen, erfahrene Kämpfer:innen und alle, die sich sicherer fühlen wollen.",
-    "ogTitle": "MMA-Training & Modern Self Defence",
-    "ogDescription": "Individuell zugeschnittenes MMA- und Selbstverteidigungstraining in Bayern."
-  },
-  "FaqMeta": {
-    "title": "Häufige Fragen zu Therapie & MMA-Training | Simeon Brus Coach",
-    "description": "Antworten auf häufige Fragen zu Ablauf, Kosten, Krankenkassen-Erstattung und Terminen bei Simeon Brus in Traubing, Bayern.",
-    "ogTitle": "Häufig gestellte Fragen",
-    "ogDescription": "Alles Wissenswerte zu Therapie, Coaching und MMA-Training auf einen Blick."
-  },
-  "ContactMeta": {
-    "title": "Kontakt | Simeon Brus - Therapie & MMA-Training in Traubing",
-    "description": "Vereinbaren Sie einen Termin für Therapie, Coaching oder MMA-Training in Traubing bei Starnberg. Schreiben Sie uns - wir melden uns schnellstmöglich zurück.",
-    "ogTitle": "Kontakt aufnehmen",
-    "ogDescription": "Termin vereinbaren für Therapie, Coaching oder MMA-Training in Bayern."
+    "title": "Therapie & Coaching | Simeon Brus Coaching",
+    "description": "Physiotherapie, Sportphysiotherapie, manuelle Therapie, Ernährung, MMA-Training und Coaching in Traubing bei Starnberg. Simeon Brus begleitet Sie ganzheitlich zu nachhaltiger Gesundheit und Leistungsfähigkeit.",
+    "ogTitle": "Simeon Brus - Physiotherapie, MMA-Training & Coaching in Bayern",
+    "ogDescription": "Individuelle Konzepte aus Physiotherapie, MMA-Training, Ernährung und Coaching - für nachhaltige Gesundheit und persönliche Entwicklung in Traubing bei Starnberg."
   },
   "ImpressumMeta": {
-    "title": "Impressum | Simeon Brus Coach",
-    "description": "Impressum und Anbieterkennzeichnung gemäß § 5 TMG für Simeon Brus Coach, Traubing.",
+    "title": "Impressum | Simeon Brus Coaching",
+    "description": "Impressum und Anbieterkennzeichnung gemäß § 5 TMG für Simeon Brus Coaching, Traubing.",
     "ogTitle": "Impressum",
     "ogDescription": "Anbieterkennzeichnung gemäß § 5 TMG."
   },

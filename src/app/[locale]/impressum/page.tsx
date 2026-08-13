@@ -27,7 +27,7 @@ export async function generateMetadata({
       title: t("ogTitle"),
       description: t("ogDescription"),
       url: alternates.canonical,
-      siteName: "Simeon Brus Coach",
+      siteName: "Simeon Brus Coaching",
       locale: ogLocale(locale),
       alternateLocale: alternateOgLocale(locale),
       type: "website",

@@ -2,14 +2,7 @@ import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import LanguageSwitcher from "./LanguageSwitcher";
 import MobileNav from "./MobileNav";
-
-const NAV_ITEMS = [
-  { href: "/" as const, key: "home" as const },
-  { href: "/therapie" as const, key: "therapy" as const },
-  { href: "/mma" as const, key: "mma" as const },
-  { href: "/faq" as const, key: "faq" as const },
-  { href: "/kontakt" as const, key: "contact" as const },
-];
+import { NAV_ITEMS } from "./navItems";
 
 export default function Header() {
   const t = useTranslations("Nav");
@@ -25,9 +18,18 @@ export default function Header() {
           <ul className="flex items-center gap-8 text-sm font-medium">
             {NAV_ITEMS.map((item) => (
               <li key={item.key}>
-                <Link href={item.href} className="text-ink hover:text-primary">
-                  {t(item.key)}
-                </Link>
+                {item.kind === "link" ? (
+                  <Link
+                    href={item.href}
+                    className="text-ink hover:text-primary"
+                  >
+                    {t(item.key)}
+                  </Link>
+                ) : (
+                  <a href={item.href} className="text-ink hover:text-primary">
+                    {t(item.key)}
+                  </a>
+                )}
               </li>
             ))}
           </ul>

@@ -1,5 +1,4 @@
 import type { HeroContent } from "@/content/types";
-import { Link } from "@/i18n/navigation";
 
 export default function Hero({ hero }: { hero: HeroContent }) {
   return (
@@ -15,18 +14,18 @@ export default function Hero({ hero }: { hero: HeroContent }) {
           {hero.subheadline}
         </p>
         <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
-          <Link
+          <a
             href={hero.primaryCta.href}
             className="inline-flex min-h-11 items-center rounded-full bg-primary px-6 py-3 text-sm font-semibold text-white hover:bg-primary-light"
           >
             {hero.primaryCta.label}
-          </Link>
-          <Link
+          </a>
+          <a
             href={hero.secondaryCta.href}
             className="inline-flex min-h-11 items-center rounded-full border border-border px-6 py-3 text-sm font-semibold text-ink hover:border-primary hover:text-primary"
           >
             {hero.secondaryCta.label}
-          </Link>
+          </a>
         </div>
       </div>
     </section>

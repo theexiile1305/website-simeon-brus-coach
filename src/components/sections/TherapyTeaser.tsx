@@ -1,18 +1,19 @@
-import type { CtaLink } from "@/content/types";
+import type { CtaLink, ServiceItem } from "@/content/types";
+import ServicesGrid from "./ServicesGrid";
 
-export default function PerformanceTeaser({
+export default function TherapyTeaser({
   id,
   eyebrow,
   heading,
   body,
-  points,
+  services,
   cta,
 }: {
   id?: string;
   eyebrow: string;
   heading: string;
   body: string;
-  points: string[];
+  services: ServiceItem[];
   cta: CtaLink;
 }) {
   return (
@@ -28,16 +29,9 @@ export default function PerformanceTeaser({
       </h2>
       <p className="mt-3 max-w-2xl text-sm text-muted">{body}</p>
 
-      <ul className="mt-5 flex flex-wrap gap-2">
-        {points.map((point) => (
-          <li
-            key={point}
-            className="rounded-full border border-border px-3 py-1 text-xs font-medium text-muted"
-          >
-            {point}
-          </li>
-        ))}
-      </ul>
+      <div className="mt-5">
+        <ServicesGrid services={services} />
+      </div>
 
       <a
         href={cta.href}

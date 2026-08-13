@@ -33,7 +33,7 @@ export const faq: FaqContent = {
     {
       question: "Where is the practice located?",
       answer:
-        "The practice is located in Traubing, near Lake Starnberg, easily reachable from the Fünfseenland area and Munich. You'll find the exact address and directions on the contact page.",
+        "The practice is located in Traubing, near Lake Starnberg, easily reachable from the Fünfseenland area and Munich. You'll find the exact address further down in the contact section of this page.",
     },
     {
       question: "Do you offer online coaching?",

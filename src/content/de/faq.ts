@@ -18,7 +18,7 @@ export const faq: FaqContent = {
     {
       question: "Brauche ich Vorerfahrung für das MMA-Training?",
       answer:
-        "Nein. Ich trainiere sowohl komplette Einsteiger:innen als auch fortgeschrittene Athlet:innen. Das Training wird individuell auf Ihr Niveau und Ihre Ziele abgestimmt.",
+        "Nein. Ich trainiere sowohl komplette Einsteiger als auch fortgeschrittene Athleten. Das Training wird individuell auf Ihr Niveau und Ihre Ziele abgestimmt.",
     },
     {
       question: "Wie oft sollte ich zur Therapie kommen?",
@@ -31,9 +31,9 @@ export const faq: FaqContent = {
         "Termine können bis zu 24 Stunden vorher kostenfrei abgesagt oder verschoben werden. Bei kurzfristigeren Absagen kann ein Ausfallhonorar anfallen.",
     },
     {
-      question: "Wo befindet sich die Praxis?",
+      question: "Wo finden Termine statt?",
       answer:
-        "Die Praxis befindet sich in Traubing bei Starnberg, gut erreichbar aus dem gesamten Fünfseenland und München. Die genaue Adresse und Anfahrtsbeschreibung finden Sie auf der Kontaktseite.",
+        "Grundstätzlich werden allen Dienstleistungen meines Angebots als Hausbesuche durchgeführt.",
     },
     {
       question: "Bieten Sie auch Online-Coaching an?",
@@ -44,7 +44,7 @@ export const faq: FaqContent = {
       question:
         "Was unterscheidet MMA-Training von klassischer Selbstverteidigung?",
       answer:
-        "MMA-Training vermittelt ein breites technisches Fundament aus Stand- und Bodenkampf und verbessert gleichzeitig Fitness und Körperbeherrschung. Selbstverteidigung fokussiert sich stärker auf Deeskalation und alltagsnahe Szenarien - beide Ansätze ergänzen sich in meinem Training.",
+        "MMA-Training vermittelt ein breites technisches Fundament aus Stand- und Bodenkampf und verbessert gleichzeitig Fitness und Körperbeherrschung. Selbstverteidigung fokussiert sich stärker auf Deeskalation und alltagsnahe Szenarien.",
     },
   ],
 };

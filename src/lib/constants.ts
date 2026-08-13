@@ -1,5 +1,5 @@
 export const SITE_URL = "https://simeon-brus-coach.de";
-export const SITE_NAME = "Simeon Brus Coach";
+export const SITE_NAME = "Simeon Brus Coaching";
 
 /**
  * Business facts sourced from the official flyer (content.pdf). telephone

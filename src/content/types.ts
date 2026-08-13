@@ -1,8 +1,6 @@
-import type { AppPathname } from "@/i18n/routing";
-
 export interface CtaLink {
   label: string;
-  href: AppPathname;
+  href: string;
 }
 
 export interface HeroContent {
@@ -14,12 +12,6 @@ export interface HeroContent {
 }
 
 export interface ServiceItem {
-  title: string;
-  description: string;
-  href: AppPathname;
-}
-
-export interface ProcessStep {
   title: string;
   description: string;
 }
@@ -63,81 +55,11 @@ export interface HomeContent {
     body: string[];
     highlights: string[];
   };
-  qualifications: {
-    heading: string;
-    intro: string;
-    items: QualificationItem[];
-  };
-  philosophy: {
-    heading: string;
-    body: string;
-    pillars: PhilosophyPillar[];
-  };
-  faqTeaser: {
-    heading: string;
-    intro: string;
-    entries: FaqEntry[];
-    cta: CtaLink;
-  };
   performanceTeaser: {
     eyebrow: string;
     heading: string;
     body: string;
     points: string[];
-    cta: CtaLink;
-  };
-  ctaBanner: {
-    heading: string;
-    body: string;
-    cta: CtaLink;
-  };
-}
-
-export interface TherapieContent {
-  hero: HeroContent;
-  intro: {
-    heading: string;
-    body: string;
-  };
-  modalities: { title: string; description: string }[];
-  audience: {
-    heading: string;
-    items: string[];
-  };
-  process: ProcessStep[];
-  ctaBanner: {
-    heading: string;
-    body: string;
-    cta: CtaLink;
-  };
-}
-
-export interface MmaContent {
-  hero: HeroContent;
-  intro: {
-    heading: string;
-    body: string;
-  };
-  training: {
-    heading: string;
-    body: string;
-    styles: string[];
-    conditioning: { title: string; description: string }[];
-  };
-  selfDefence: {
-    heading: string;
-    body: string;
-    focusPoints: string[];
-  };
-  audience: {
-    heading: string;
-    intro: string;
-    scenarios: { title: string; description: string }[];
-    cta: string;
-  };
-  ctaBanner: {
-    heading: string;
-    body: string;
     cta: CtaLink;
   };
 }

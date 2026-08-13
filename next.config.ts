@@ -40,6 +40,22 @@ const nextConfig: NextConfig = {
       },
     ];
   },
+  async redirects() {
+    return [
+      {
+        source: "/de/therapie",
+        destination: "/de#therapie",
+        permanent: true,
+      },
+      { source: "/en/therapy", destination: "/en#therapie", permanent: true },
+      { source: "/de/mma", destination: "/de#mma", permanent: true },
+      { source: "/en/mma", destination: "/en#mma", permanent: true },
+      { source: "/de/faq", destination: "/de#faq", permanent: true },
+      { source: "/en/faq", destination: "/en#faq", permanent: true },
+      { source: "/de/kontakt", destination: "/de#kontakt", permanent: true },
+      { source: "/en/contact", destination: "/en#kontakt", permanent: true },
+    ];
+  },
 };
 
 const withNextIntl = createNextIntlPlugin();
