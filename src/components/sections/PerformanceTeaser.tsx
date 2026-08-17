@@ -23,9 +23,7 @@ export default function PerformanceTeaser({
       <p className="text-xs font-semibold uppercase tracking-wide text-muted">
         {eyebrow}
       </p>
-      <h2 className="mt-2 text-xl font-bold text-ink sm:text-2xl">
-        {heading}
-      </h2>
+      <h2 className="mt-2 text-xl font-bold text-ink sm:text-2xl">{heading}</h2>
       <p className="mt-3 max-w-2xl text-sm text-muted">{body}</p>
 
       <ul className="mt-5 flex flex-wrap gap-2">

@@ -29,10 +29,7 @@ export default function Footer() {
                     {tNav(item.key)}
                   </Link>
                 ) : (
-                  <a
-                    href={item.href}
-                    className="text-muted hover:text-primary"
-                  >
+                  <a href={item.href} className="text-muted hover:text-primary">
                     {tNav(item.key)}
                   </a>
                 )}

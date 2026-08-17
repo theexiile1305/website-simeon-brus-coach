@@ -5,7 +5,12 @@ export const impressum: LegalContent = {
   sections: [
     {
       heading: "Angaben gemäß § 5 TMG",
-      body: ["Simeon Brus Coaching", "Bachweg 6", "82327 Traubing", "Deutschland"],
+      body: [
+        "Simeon Brus Coaching",
+        "Bachweg 6",
+        "82327 Traubing",
+        "Deutschland",
+      ],
     },
     {
       heading: "Vertretungsberechtigte Person",

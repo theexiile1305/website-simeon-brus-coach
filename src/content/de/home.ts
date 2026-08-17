@@ -74,7 +74,7 @@ export const home: HomeContent = {
       "Sportphysiotherapie (DOSB GK)",
       "Ernährungs- & Fastenkonzepte",
       "Sektoraler Heilpraktiker Physiotherapie",
-      "Ganzheitlicher Ansatz"
+      "Ganzheitlicher Ansatz",
     ],
   },
   performanceTeaser: {

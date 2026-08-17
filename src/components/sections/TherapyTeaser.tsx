@@ -24,9 +24,7 @@ export default function TherapyTeaser({
       <p className="text-xs font-semibold uppercase tracking-wide text-muted">
         {eyebrow}
       </p>
-      <h2 className="mt-2 text-xl font-bold text-ink sm:text-2xl">
-        {heading}
-      </h2>
+      <h2 className="mt-2 text-xl font-bold text-ink sm:text-2xl">{heading}</h2>
       <p className="mt-3 max-w-2xl text-sm text-muted">{body}</p>
 
       <div className="mt-5">
