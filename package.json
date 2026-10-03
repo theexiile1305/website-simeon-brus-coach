@@ -19,7 +19,7 @@
     "react": "19.3.0",
     "react-dom": "19.2.7",
     "react-hook-form": "7.89.0",
-    "resend": "6.31.0",
+    "resend": "6.32.0",
     "zod": "4.6.5"
   },
   "devDependencies": {
